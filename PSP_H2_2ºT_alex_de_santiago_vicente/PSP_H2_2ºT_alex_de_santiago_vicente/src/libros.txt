@@ -1,0 +1,30 @@
+Programación en Java,Juan García,java
+Aprende Python,María López,python
+Desarrollo Web con Java,Ana Martínez,java
+Base de Datos SQL,Pedro Sánchez,bases de datos
+JavaScript Moderno,Laura Gómez,javascript
+Clean Code: A Handbook of Agile Software Craftsmanship,Robert C. Martin,programación
+Design Patterns: Elements of Reusable Object-Oriented Software,Gang of Four,patrones de diseño
+Java: The Complete Reference,Herbert Schildt,java
+Head First Design Patterns,Elisabeth Freeman,patrones de diseño
+Effective Java,Joshua Bloch,java
+Python Crash Course,Eric Matthes,python
+Learning Python,Mark Lutz,python
+JavaScript: The Good Parts,Douglas Crockford,javascript
+You Don't Know JS,Kyle Simpson,javascript
+The Pragmatic Programmer,Andy Hunt,programación
+Code Complete,Steve McConnell,programación
+Introduction to Algorithms,Thomas H. Cormen,algoritmos
+Domain-Driven Design,Eric Evans,arquitectura
+Refactoring: Improving the Design of Existing Code,Martin Fowler,programación
+Python for Data Science Handbook,Jake VanderPlas,python
+Spring in Action,Craig Walls,java
+Node.js Design Patterns,Mario Casciaro,javascript
+Test Driven Development: By Example,Kent Beck,testing
+The Art of Computer Programming,Donald Knuth,algoritmos
+Building Microservices,Sam Newman,arquitectura
+SQL Performance Explained,Markus Winand,bases de datos
+MongoDB: The Definitive Guide,Shannon Bradshaw,bases de datos
+React Up and Running,Stoyan Stefanov,javascript
+Machine Learning with Python,Sebastian Raschka,python
+Enterprise Integration Patterns,Gregor Hohpe,arquitectura
